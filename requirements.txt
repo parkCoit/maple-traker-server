@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+requests
+streamlit
+python-jose[cryptography]
+extra-streamlit-components
+requests
+supabase
+pandas
+pyjwt
+plotly
+httpx
